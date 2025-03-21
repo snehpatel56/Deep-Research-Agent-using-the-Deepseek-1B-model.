@@ -1,0 +1,38 @@
+# FastAPI for API creation
+fastapi
+
+# Uvicorn for running FastAPI server
+uvicorn
+
+# Data Handling
+pandas
+numpy
+
+# Stock Market Data
+yfinance
+
+# Web Scraping
+beautifulsoup4
+requests
+scrapy
+
+# PDF Handling
+fpdf
+pymupdf
+pdfminer-six
+
+# Deep Learning Model (Deepseek 1B)
+transformers
+torch
+
+# Optional: If using LangChain for orchestration
+langchain
+
+
+selenium
+
+
+sk-15ded6816aea4f5d872ceeeb60a0fc67
+
+Set-ExecutionPolicy Unrestricted -Scope Process
+ venv\Scripts\activate
